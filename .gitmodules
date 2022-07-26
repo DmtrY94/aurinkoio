@@ -4,3 +4,6 @@
 [submodule "hugo-apsho"]
 	path = hugo-apsho
 	url = https://github.com/StaticMania/hugo-apsho
+[submodule "themes/hugo-apsho"]
+	path = themes/hugo-apsho
+	url = https://github.com/StaticMania/hugo-apsho
