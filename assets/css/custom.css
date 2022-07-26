@@ -1,0 +1,89 @@
+@font-face {
+    font-family: 'nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: local('nunito regular'), local('nunito-regular'),
+        url('/fonts/nunito-regular.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+
+}
+
+/* nunito-600 - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: normal;
+    font-weight: 600;
+    src: local('nunito semibold'), local('nunito-semibold'),
+        url('/fonts/nunito-semibold.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-600italic - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: italic;
+    font-weight: 600;
+    src: local('nunito semibold italic'), local('nunito-semibolditalic'),
+        url('/fonts/nunito-semibolditalic.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-700 - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: normal;
+    font-weight: 700;
+    src: local('nunito bold'), local('nunito-bold'),
+        url('/fonts/nunito-bold.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-700italic - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: italic;
+    font-weight: 700;
+    src: local('nunito bold italic'), local('nunito-bolditalic'),
+        url('/fonts/nunito-bolditalic.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-800 - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: normal;
+    font-weight: 800;
+    src: local('nunito extrabold'), local('nunito-extrabold'),
+        url('/fonts/nunito-extrabold.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-800italic - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: italic;
+    font-weight: 800;
+    src: local('nunito extrabold italic'), local('nunito-extrabolditalic'),
+        url('/fonts/nunito-extrabolditalic.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-900 - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: normal;
+    font-weight: 900;
+    src: local('nunito black'), local('nunito-black'),
+        url('/fonts/nunito-black.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+/* nunito-900italic - latin */
+@font-face {
+    font-family: 'nunito';
+    font-style: italic;
+    font-weight: 900;
+    src: local('nunito Black Italic'), local('Montserrat-BlackItalic'),
+        url('/fonts/nunito-blackitalic.woff2') format('woff2'),
+        /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
