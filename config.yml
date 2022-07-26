@@ -1,7 +1,7 @@
 baseURL: 'http://example.org/'
 languageCode: en-us
 title: Apsho | App landing template
-theme: apsho-hugo-theme
+theme: apsho
 menu:
   main:
     - name: About
